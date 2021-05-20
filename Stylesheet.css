@@ -1,0 +1,20 @@
+html{
+    background-color: antiquewhite;
+      
+}
+#upload-button{
+    padding: 10px;
+    color: white;
+    background-color: grey;
+    border: 1px solid #000;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#upload-button:hover {
+    background-color: #00b28f;
+}
+#custom-text{
+    margin-left: 10px;
+    font-family: sans-serif;
+    color:#aaa;
+}
